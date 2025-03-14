@@ -24,7 +24,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-bFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
